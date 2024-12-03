@@ -1,0 +1,15 @@
+D:\подготовка к дэмэкзамену\interfeys\bin\Debug\interfeys.exe.config
+D:\подготовка к дэмэкзамену\interfeys\bin\Debug\interfeys.exe
+D:\подготовка к дэмэкзамену\interfeys\bin\Debug\interfeys.pdb
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\interfeys.csproj.AssemblyReference.cache
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\MainWindow.g.cs
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\App.g.cs
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\interfeys_MarkupCompile.cache
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\interfeys_MarkupCompile.lref
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\MainWindow.baml
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\interfeys.g.resources
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\interfeys.Properties.Resources.resources
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\interfeys.csproj.GenerateResource.cache
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\interfeys.csproj.CoreCompileInputs.cache
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\interfeys.exe
+D:\подготовка к дэмэкзамену\interfeys\obj\Debug\interfeys.pdb
